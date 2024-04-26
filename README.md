@@ -1,2 +1,3 @@
-# engeto01
-testovaci projekt pro Engeto kurz
+# Engeto testovací projekt
+
+testovací projekt pro Engeto kurz
